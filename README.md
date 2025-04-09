@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Gabriel!</h2>
-## 📫 Como me achar: gabrielosantosb@gmail.com
+📫 Como me achar: gabrielosantosb@gmail.com
 
 ###
 
